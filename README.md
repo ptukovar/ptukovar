@@ -1,1 +1,1 @@
-[![](https://visitcount.itsvg.in/api?id=ptukovar&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,cpp,c,py,haskell,html,css,mysql,js,php,bash,blender)](https://skillicons.dev)
